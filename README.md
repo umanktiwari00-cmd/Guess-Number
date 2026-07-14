@@ -1,5 +1,8 @@
 
 # 🎯 Number Guessing Game
+## 🌐 Live Demo
+
+**Live Website:** https://umanktiwari00-cmd.github.io/Guess-Number/
 
 A simple and interactive Number Guessing Game built using **HTML, CSS, and JavaScript**.
 
